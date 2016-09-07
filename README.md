@@ -6,6 +6,7 @@ obs: Todas as rotinas funcionam de forma independente a menos que dito o contrá
 
 Indice:
 
-001- 
-002- 
+001- PRC_ValidarCPF.prc;
+002- PRC_ValidarCNPJ.prc;
+
 
